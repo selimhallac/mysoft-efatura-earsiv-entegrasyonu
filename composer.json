@@ -1,0 +1,17 @@
+{
+    "name": "phpdev/mysoft",
+    "description": "Mysoft E-Fatura & E Arşiv Entegrasyonu",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+               "Phpdev\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Selim Hallaç",
+            "email": "selimhallac@gmail.com"
+        }
+    ],
+    "require": {}
+}
