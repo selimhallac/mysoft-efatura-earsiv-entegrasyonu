@@ -166,7 +166,7 @@ class MySoft
             #"connectorGuid" => "3ADEFE96-9B5E-498A-B744-3DF27D574731",
             "profile" => $invoice_arr['fatura_genel_bilgiler']['fatura_senaryo'],
             "invoiceType" => $invoice_arr['fatura_genel_bilgiler']['fatura_tipi'],
-            #"tenantIdentifierNumber" => "27698004882",
+            #"tenantIdentifierNumber" => "",
             "prefix" => $invoice_arr['fatura_genel_bilgiler']['fatura_numarasi_onek'],
             "docDate" => $invoice_arr['fatura_genel_bilgiler']['fatura_tarihi'],
             "docTime" => $invoice_arr['fatura_genel_bilgiler']['fatura_saati'],
